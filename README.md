@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @larmidodo
-- 👀 I’m interested in meb designing/ AI learning
+- 👀 I’m interested in web designing/ 
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me lamzie008@gmail.com
